@@ -1,0 +1,7 @@
+{
+  "name": "OpebByte",
+  "description": "Excalidraw-style download hub for HardwareCheck, llama.cpp Windows builds, and SmolLM AI model.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
