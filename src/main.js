@@ -4,7 +4,7 @@ const DEFAULT_LLAMA_TAG = 'b10992';
 let currentReleaseTag = DEFAULT_LLAMA_TAG;
 
 // Direct download URLs
-const HARDWARE_CHECK_URL = 'https://github.com/openbyte-yt/HardwareChecker-llamacpp/blob/main/HardwareChecker.zip';
+const HARDWARE_CHECK_URL = 'https://github.com/openbyte-yt/HardwareChecker-llamacpp/blob/main/HardwareChecker.exe';
 const SMOLLM_GGUF_URL = 'https://www.dropbox.com/scl/fi/h57rwcy41h42lpkt1s0p0/SmolLM2.gguf?rlkey=6mnphwbuidj7an3598h3t0etj&st=ltruutk1&dl=1';
 
 // All 10 Windows builds definition generator
